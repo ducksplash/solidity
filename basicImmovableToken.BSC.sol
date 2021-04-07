@@ -5,6 +5,11 @@
 //////////////////////////////////////////////////////////////////////////////////////
 //
 //      Immovable & Immutable token contract.
+//
+//      THIS MEANS YOU CANNOT SEND THE TOKEN; THE TRANSACTION WILL FAIL.
+//
+//      So don't just copy and paste it and mint 100,000 tokens and get angry when you immediately become Chief Bagholder.
+//
 //      You are stuck with this token for life.
 //      It was actually an accident; still learning, but i'll take it.
 //
