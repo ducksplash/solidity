@@ -2,9 +2,6 @@
 
 Integrated Token, Presale & Airdrop contract.
 
-
-
-
 Pertinent Variables: 
 
 
