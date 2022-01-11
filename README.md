@@ -1,6 +1,6 @@
-Integrated token, presale & airdrop contract
+Integrated token, presale & airdrop contract.
 
-How this works:
+How it works:
 
     ## The Presale Function
 
