@@ -1,7 +1,12 @@
 /*
+
 Integrated Token, Presale & Airdrop contract.
 
+
+
+
 Pertinent Variables: 
+
 
    Fill these in below (in the constructor, not this comment!)
 
@@ -31,6 +36,14 @@ Pertinent Variables:
 
         // presale balance, 5m  
         presaleBalance = 5000000000000000000000000; 
+
+
+
+
+
+
+
+
 */
 pragma solidity ^0.4.26;
 
