@@ -6,19 +6,34 @@ How it works:
 
     The token sale function works like this:
 
-      1: You set the following parameters in the constructor below (Use CTRL-F dude)
+      1: You set the following parameters in the constructor (Use CTRL-F to find it)
+      
+        Change the defaults below to values of your choice
 
-          tokensPerEth (in wei, use a converter or add maths yourself)
-          minimumBuy (in wei) 
-          presaleBalance (in wei)
+        // token ticker - keep it short, I stay max 5 chars
+        symbol = "TKN"; 
 
-        These parameters are currently set to:
+        // token name - again, don't write a novel here. I go 10-15 chars or so.
+        // a web address fits if it is short.
+        name = "TOKEN"; 
 
-        50 tokens per 1 eth (or bnb, or matic, or ftm....)
+        // how many decimals to allow
+        decimals = 18; 
 
-        0.02 eth minimum buy.
+        // 10m total (in wei)
+        totalSupply = 10000000000000000000000000; 
 
-        5m tokens in presale balance.
+        // minimum spend 0.02 ether (in wei)
+        minimumBuy = 20000000000000000; 
+
+        // presale price 50 tokens per ether (in wei)
+        tokensPerEth = 50000000000000000000; 
+
+        // airdrop balance, 5m (in wei)
+        airdropBalance = 5000000000000000000000000; 
+
+        // presale balance, 5m (in wei)
+        presaleBalance = 5000000000000000000000000; 
 
         When you are happy with your parameters, deploy the contract.
 
@@ -32,8 +47,13 @@ How it works:
 
         The buyer sends any amount of ether to the Contract address
         and the corresponding amount of tokens is remitted.
+        
+        The ethereum (or matic, or bnb, or ftm etc) is remitted to the Owner Wallet.
+        
+        The Owner Wallet is the address used to deploy the contract.
 
         Pretty simple, yes?
+
 
 
       3: Over to you; put it on an exchange, add liquidity, do whatever.
@@ -61,6 +81,7 @@ How it works:
             Paste in a Comma Separated array of 0x addresses
 
             Click "Write" and complete the transaction in Metamask.
+
 
 
         2: From a web3.js or equivalent script
