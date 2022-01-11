@@ -42,6 +42,7 @@ How it works:
 
 
 
+
    2: Presale is live immediately upon deployment; 
          you can of course add a simply toggle function, 
          but I havent; I'm not your mum, do some stuff yourself.
@@ -56,6 +57,7 @@ How it works:
          The Owner Wallet is the address used to deploy the contract.
 
          Pretty simple, yes?
+
 
 
 
@@ -86,6 +88,8 @@ How it works:
          Click "Write" and complete the transaction in Metamask.
 
 
+
+
    2: From a web3.js or equivalent script
         
          That's a whole n'other script in and of itself. 
@@ -93,8 +97,9 @@ How it works:
           
          If I upload it, it'll be in this bit.  In the mean time, google it.
         
-        
-   ## terms and conditions apply; if you use this and incur loss, hard cheese.  
+
+
+   ## Terms & Conditions apply; if you use this and incur loss, hard cheese.  
    ## No warranty is provided and there is no customer care telphone number.
    ## A nice lady called Sue is not ready to assist you.
    
