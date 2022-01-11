@@ -34,13 +34,6 @@ Pertinent Variables:
         // presale balance, 5m  
         presaleBalance = 5000000000000000000000000; 
 
-
-
-
-
-
-
-
 */
 pragma solidity ^0.4.26;
 
