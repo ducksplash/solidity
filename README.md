@@ -44,7 +44,7 @@ How it works:
 
 
    2: Presale is live immediately upon deployment; 
-         you can of course add a simply toggle function, 
+         you can of course add a simple toggle function, 
          but I havent; I'm not your mum, do some stuff yourself.
 
          Anyway...
@@ -99,8 +99,8 @@ How it works:
         
 
 
-   ## Terms & Conditions apply; if you use this and incur loss, hard cheese.  
-   ## No warranty is provided and there is no customer care telphone number.
-   ## A nice lady called Sue is not ready to assist you.
+   # Terms & Conditions apply; if you use this and incur loss, hard cheese.  
+   # No warranty is provided and there is no customer care telephone number.
+   # A nice lady called Sue is not ready to assist you.
    
    // fin
